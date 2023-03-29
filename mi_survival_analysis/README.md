@@ -3,7 +3,7 @@ Survival analysis is used to analyze time-to-event data and to identify factors 
 
 ## Project
 
-[R code HTML version](https://htmlpreview.github.io/?https://github.com/jialinwujw/sharing_projects/blob/main/mi_survival_analysis/mi_survival_analysis.html)
+[R code HTML version](https://htmlpreview.github.io/?https://github.com/jialinwujw/r.projects/blob/main/mi_survival_analysis/mi_survival_analysis.html)
 
 ### Data
 The data set available from the R Package (smoothHR), including 500 observations with 22 variables.
